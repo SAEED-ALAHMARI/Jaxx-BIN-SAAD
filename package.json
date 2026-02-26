@@ -88,7 +88,7 @@
     "gulp": "3.9.1",
     "gulp-rename": "1.2.2",
     "gulp-zip": "3.1.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "jquery-bridget": "^2.0.1",
     "toastr": "^2.1.2",
     "xhr2": "0.1.3"
